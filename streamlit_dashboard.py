@@ -7,7 +7,7 @@ import numpy as np
 
 st.set_page_config(
     page_title="Semiconductor Financial Dashboard",
-    page_icon="Sandisk-Logo-500x281.png",
+    page_icon="Sandisk-Logo-500x281.webp",
     layout="wide",
     initial_sidebar_state="expanded"
 )
