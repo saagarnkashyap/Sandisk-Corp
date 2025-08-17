@@ -31,12 +31,10 @@ The project focuses on semiconductor competitor analysis and includes:
 
 1. Clone this repository
 2. Install required dependencies
-3. Run the Streamlit dashboard: streamlit run streamlit_dashboard.py`n
+3. Run the Streamlit dashboard: ```streamlit run streamlit_dashboard.py```
 
 
 ## Saagar N Kashyap - SDC Intern
-
-## Date
-
 August 2025
+
 
