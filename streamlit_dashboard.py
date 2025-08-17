@@ -7,12 +7,12 @@ import numpy as np
 
 st.set_page_config(
     page_title="Semiconductor Financial Dashboard",
-    page_icon="📊",
+    page_icon="Sandisk",
     layout="wide",
     initial_sidebar_state="expanded"
 )
 
-st.title("📊 Semiconductor Companies Financial Dashboard")
+st.title("Semiconductor Companies Financial Dashboard")
 st.markdown("""
 This dashboard analyzes financial data for semiconductor companies (WDC, Intel, Micron, TSMC) 
 with focus on inventory and sales metrics for internship case study presentation.
@@ -78,7 +78,7 @@ selected_metric = st.sidebar.selectbox(
 df_filtered["Value"] = pd.to_numeric(df_filtered["Value"], errors="coerce")
 
 # Key Metrics Section
-st.header("📈 Key Metrics Overview")
+st.header("Key Metrics Overview")
 
 col1, col2, col3, col4 = st.columns(4)
 
