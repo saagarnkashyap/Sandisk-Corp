@@ -25,7 +25,12 @@ def load_data(file_path):
     df["Date"] = pd.to_datetime(df["Date"])
     return df
 
-processed_file_path = r"C:\Users\HP\Desktop\SDC\SDC_InternshipAssignment\processed_inventory_data.csv"
+import os
+
+# Get path relative to script location
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+processed_file_path = os.path.join(BASE_DIR, "processed_inventory_data.csv")
+
 
 df = load_data(processed_file_path)
 
