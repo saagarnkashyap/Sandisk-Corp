@@ -1,0 +1,145 @@
+Company,Metric,Date,Value
+WDC,Revenue,2025-03-31,2294.0
+WDC,Revenue,2024-12-31,4285.0
+WDC,Revenue,2024-09-30,4095.0
+WDC,Revenue,2024-06-30,5469.0
+WDC,Revenue,2024-03-31,1752.0
+WDC,Revenue,2023-12-31,3032.0
+WDC,Cost Of Goods Sold,2025-03-31,1382.0
+WDC,Cost Of Goods Sold,2024-12-31,2769.0
+WDC,Cost Of Goods Sold,2024-09-30,2544.0
+WDC,Cost Of Goods Sold,2024-06-30,3634.0
+WDC,Cost Of Goods Sold,2024-03-31,1233.0
+WDC,Cost Of Goods Sold,2023-12-31,2540.0
+WDC,Gross Profit,2025-03-31,912.0
+WDC,Gross Profit,2024-12-31,1516.0
+WDC,Gross Profit,2024-09-30,1551.0
+WDC,Gross Profit,2024-06-30,1835.0
+WDC,Gross Profit,2024-03-31,519.0
+WDC,Gross Profit,2023-12-31,492.0
+WDC,Inventory,2025-03-31,1311.0
+WDC,Inventory,2024-12-31,3420.0
+WDC,Inventory,2024-09-30,3384.0
+WDC,Inventory,2024-06-30,1387.0
+WDC,Inventory,2024-03-31,3215.0
+WDC,Inventory,2023-12-31,3216.0
+WDC,Cash On Hand,2025-03-31,3477.0
+WDC,Cash On Hand,2024-12-31,2291.0
+WDC,Cash On Hand,2024-09-30,1705.0
+WDC,Cash On Hand,2024-06-30,1551.0
+WDC,Cash On Hand,2024-03-31,1894.0
+WDC,Cash On Hand,2023-12-31,2481.0
+WDC,Inventory Turnover,2025-03-31,0.5842
+WDC,Inventory Turnover,2024-12-31,0.8139
+WDC,Inventory Turnover,2024-09-30,1.0664
+WDC,Inventory Turnover,2024-06-30,1.5793
+WDC,Inventory Turnover,2024-03-31,0.3835
+WDC,Inventory Turnover,2023-12-31,0.7899
+Micron,Revenue,2025-02-28,8053.0
+Micron,Revenue,2024-11-30,8709.0
+Micron,Revenue,2024-08-31,7750.0
+Micron,Revenue,2024-05-31,6811.0
+Micron,Revenue,2024-02-29,5824.0
+Micron,Revenue,2023-11-30,4726.0
+Micron,Cost Of Goods Sold,2025-02-28,5090.0
+Micron,Cost Of Goods Sold,2024-11-30,5361.0
+Micron,Cost Of Goods Sold,2024-08-31,5013.0
+Micron,Cost Of Goods Sold,2024-05-31,4979.0
+Micron,Cost Of Goods Sold,2024-02-29,4745.0
+Micron,Cost Of Goods Sold,2023-11-30,4761.0
+Micron,Gross Profit,2025-02-28,2963.0
+Micron,Gross Profit,2024-11-30,3348.0
+Micron,Gross Profit,2024-08-31,2737.0
+Micron,Gross Profit,2024-05-31,1832.0
+Micron,Gross Profit,2024-02-29,1079.0
+Micron,Gross Profit,2023-11-30,-35.0
+Micron,Inventory,2025-02-28,9007.0
+Micron,Inventory,2024-11-30,8705.0
+Micron,Inventory,2024-08-31,8875.0
+Micron,Inventory,2024-05-31,8512.0
+Micron,Inventory,2024-02-29,8443.0
+Micron,Inventory,2023-11-30,8276.0
+Micron,Cash On Hand,2025-02-28,8215.0
+Micron,Cash On Hand,2024-11-30,7588.0
+Micron,Cash On Hand,2024-08-31,8106.0
+Micron,Cash On Hand,2024-05-31,8379.0
+Micron,Cash On Hand,2024-02-29,9006.0
+Micron,Cash On Hand,2023-11-30,9048.0
+Micron,Inventory Turnover,2025-02-28,0.5748
+Micron,Inventory Turnover,2024-11-30,0.6099
+Micron,Inventory Turnover,2024-08-31,0.5766
+Micron,Inventory Turnover,2024-05-31,0.5873
+Micron,Inventory Turnover,2024-02-29,0.5676
+Micron,Inventory Turnover,2023-11-30,1.0
+TSMC,Revenue,2025-03-31,25513.31
+TSMC,Revenue,2024-12-31,25059.99
+TSMC,Revenue,2024-09-30,23550.46
+TSMC,Revenue,2024-06-30,20811.46
+TSMC,Revenue,2024-03-31,18846.09
+TSMC,Revenue,2023-12-31,20912.59
+TSMC,Cost Of Goods Sold,2025-03-31,10514.1
+TSMC,Cost Of Goods Sold,2024-12-31,10208.92
+TSMC,Cost Of Goods Sold,2024-09-30,9930.74
+TSMC,Cost Of Goods Sold,2024-06-30,9745.42
+TSMC,Cost Of Goods Sold,2024-03-31,8844.82
+TSMC,Cost Of Goods Sold,2023-12-31,9817.67
+TSMC,Gross Profit,2025-03-31,14999.21
+TSMC,Gross Profit,2024-12-31,14851.07
+TSMC,Gross Profit,2024-09-30,13619.72
+TSMC,Gross Profit,2024-06-30,11066.04
+TSMC,Gross Profit,2024-03-31,10001.27
+TSMC,Gross Profit,2023-12-31,11094.92
+TSMC,Inventory,2025-03-31,8918.98
+TSMC,Inventory,2024-12-31,8779.2
+TSMC,Inventory,2024-09-30,9079.4
+TSMC,Inventory,2024-06-30,8419.96
+TSMC,Inventory,2024-03-31,8494.52
+TSMC,Inventory,2023-12-31,8282.05
+TSMC,Cash On Hand,2025-03-31,83983.73
+TSMC,Cash On Hand,2024-12-31,75790.1
+TSMC,Cash On Hand,2024-09-30,68289.95
+TSMC,Cash On Hand,2024-06-30,64403.64
+TSMC,Cash On Hand,2024-03-31,62181.23
+TSMC,Cash On Hand,2023-12-31,49873.02
+TSMC,Inventory Turnover,2025-03-31,1.1882
+TSMC,Inventory Turnover,2024-12-31,1.1433
+TSMC,Inventory Turnover,2024-09-30,1.135
+TSMC,Inventory Turnover,2024-06-30,1.1523
+TSMC,Inventory Turnover,2024-03-31,1.0544
+TSMC,Inventory Turnover,2023-12-31,1.1704
+Intel,Revenue,2025-02-28,12667.0
+Intel,Revenue,2024-11-30,14260.0
+Intel,Revenue,2024-08-31,13284.0
+Intel,Revenue,2024-05-31,12833.0
+Intel,Revenue,2024-02-29,12724.0
+Intel,Revenue,2023-11-30,15406.0
+Intel,Cost Of Goods Sold,2025-02-28,7995.0
+Intel,Cost Of Goods Sold,2024-11-30,8676.0
+Intel,Cost Of Goods Sold,2024-08-31,11287.0
+Intel,Cost Of Goods Sold,2024-05-31,8286.0
+Intel,Cost Of Goods Sold,2024-02-29,7507.0
+Intel,Cost Of Goods Sold,2023-11-30,8359.0
+Intel,Gross Profit,2025-02-28,4672.0
+Intel,Gross Profit,2024-11-30,5584.0
+Intel,Gross Profit,2024-08-31,1997.0
+Intel,Gross Profit,2024-05-31,4547.0
+Intel,Gross Profit,2024-02-29,5217.0
+Intel,Gross Profit,2023-11-30,7047.0
+Intel,Inventory,2025-02-28,12281.0
+Intel,Inventory,2024-11-30,12198.0
+Intel,Inventory,2024-08-31,12062.0
+Intel,Inventory,2024-05-31,11244.0
+Intel,Inventory,2024-02-29,11494.0
+Intel,Inventory,2023-11-30,11127.0
+Intel,Cash On Hand,2025-02-28,21048.0
+Intel,Cash On Hand,2024-11-30,22062.0
+Intel,Cash On Hand,2024-08-31,24086.0
+Intel,Cash On Hand,2024-05-31,29273.0
+Intel,Cash On Hand,2024-02-29,21311.0
+Intel,Cash On Hand,2023-11-30,25034.0
+Intel,Inventory Turnover,2025-02-28,0.6532
+Intel,Inventory Turnover,2024-11-30,0.7153
+Intel,Inventory Turnover,2024-08-31,0.9686
+Intel,Inventory Turnover,2024-05-31,0.7288
+Intel,Inventory Turnover,2024-02-29,0.6637
+Intel,Inventory Turnover,2023-11-30,0.739
