@@ -35,7 +35,8 @@ The project focuses on semiconductor competitor analysis and includes:
 
 
 ## Saagar N Kashyap 
-August 2025
+As of August 2025
+
 
 
 
