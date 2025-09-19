@@ -1,6 +1,6 @@
-﻿# SDC Internship Assignment
+﻿# SDC Case Study Assignment
 
-This repository contains the work completed during the SDC Internship Assignment.
+This repository contains the work completed during the SDC Case Study Assignment.
 
 ## Project Overview
 
@@ -34,7 +34,8 @@ The project focuses on semiconductor competitor analysis and includes:
 3. Run the Streamlit dashboard: ```streamlit run streamlit_dashboard.py```
 
 
-## Saagar N Kashyap - SDC Intern
+## Saagar N Kashyap 
 August 2025
+
 
 
